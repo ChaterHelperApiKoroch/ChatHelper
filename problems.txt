@@ -1,0 +1,33 @@
+FileNotFoundError: Файл 'config.ini' не найден.
+PermissionError: Отказано в доступе к файлу.
+OSError: Ошибка ввода-вывода при попытке чтения файла.
+TypeError: Ожидается строка, получен тип 'None'.
+ValueError: Неверный формат даты.
+ConnectionError: Ошибка подключения к серверу.
+NameError: Имя 'undefined_variable' не определено.
+IndentationError: Ошибка в отступах в вашем коде.
+KeyboardInterrupt: Программа была прервана пользователем.
+MemoryError: Недостаточно памяти для выполнения программы.
+RecursionError: Превышена максимальная глубина рекурсии.
+OverflowError: Произошло переполнение числа.
+FileExistsError: Файл 'output.txt' уже существует.
+TimeoutError: Время ожидания операции истекло.
+SystemError: Внутренняя ошибка системы.
+BrokenPipeError: Оборвано соединение с другим процессом.
+ChildProcessError: Произошла ошибка в дочернем процессе.
+NotADirectoryError: 'path/to/directory' не является директорией.
+IsADirectoryError: 'file.txt' - это директория, ожидался файл.
+BlockingIOError: Операция ввода-вывода заблокирована.
+Ошибка: Не удалось открыть файл 'example.txt'
+ValueError: Неверное значение ввода. Пожалуйста, введите число.
+FileNotFoundError: Файл 'data.csv' не найден.
+TypeError: Невозможно выполнить операцию над типами 'str' и 'int'.
+ZeroDivisionError: Деление на ноль невозможно.
+SyntaxError: Неверный синтаксис. Проверьте правильность вашего кода.
+NameError: Имя 'variable_name' не определено.
+IndexError: Индекс вне диапазона списка.
+KeyError: Ключ 'non_existent_key' не найден в словаре.
+ModuleNotFoundError: Модуль 'non_existent_module' не найден.
+ImportError: Невозможно импортировать функцию 'non_existent_function' из модуля.
+AttributeError: Объект не имеет атрибута 'non_existent_attribute'.
+Win32apiError: Файл System32 не найден
