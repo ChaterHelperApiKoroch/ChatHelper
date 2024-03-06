@@ -23,7 +23,7 @@ async def click(col, pov):
 
 while True:
 	asyncio.run(click(10, 900))
-	sleep(20)
+	sleep(15)
 	os.system("cls||clear")
 	print("Lets GO")
 	sleep(5)
