@@ -84,7 +84,7 @@ def cap(message, data, txt):
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.send_message(message.chat.id, "Топовые раздачи тут -> \nhttps://t.me/+7SecGYU9rNg5OGYy")
+    bot.send_message(message.chat.id, "Топовые раздачи тут -> \nhttps://t.me/+a-SE4OmY7g0wY2Q6")
     try:
         txt = message.text
         with open("links.json", 'r', encoding='utf-8') as file:
